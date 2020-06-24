@@ -13,11 +13,8 @@
  </head>
  <body style="background-color:#fff; padding-left: 50px; padding-right: 50px;">
 <h1 align="center">Roman Kryvolapov</h1>
-
 <center><img src="https://romankryvolapov.github.io/Roman Kryvolapov.jpg" alt="CV" width="400" height="100%"></center>
-
 <h2 id="h2">Personal information</h2>
-
 <u>Address:</u> Krakow, Poland<br>
 <u>Phone/Viber:</u> +48 573 194 302<br>
 <u>Email:</u> roman.kryvolapov@gmail.com<br>
@@ -28,46 +25,29 @@
 <u>Thingiverse Designs:</u> <a href="https://www.thingiverse.com/RomanKryvolapov/" target="_blank" style="color: red;">https://www.thingiverse.com/RomanKryvolapov/</a><br>
 <u>YouTube:</u> <a href="https://www.youtube.com/channel/UCc58-0Z-VTg8g3_fUODM3hw/" target="_blank" style="color: red;">https://www.youtube.com/channel/UCc58-0Z-VTg8g3_fUODM3hw/</a><br>
 <u>Citizenship:</u> EU
-
 <h2 id="h2">Summary</h2>
-
-I have experience in Front-end WEB (css, mysql, html and other), Android and JavaSE, graphic design (Photoshop and other), creation of visual content, Unity, internet marketing (Google ads, Facebook ads, YouTube etc), website security check (Kali Linux)   
-
+Until today, I have worked mainly as a web developer, and I also dealt with all issues related to representing companies on the Internet, from creating and optimizing a website to Internet marketing. I have little experience in creating applications for Android and in Java, and I chose Android development as the direction of my growth. Now I want to get into the team that is developing the application for Android. 
+<h2 id="h2">Level of knowledge on a 5-point scale</h2>
+CSS (4), HTML (4), Java (3.5), MySQL/SQLite (3), JS (2), REST (3), JSON (3), GIT (2.5), XML (3), Photoshop (4), Sketch (3), UX/UI Design (2), Android SDK (3), Oculus SDK (1), UNITY (1.5), Kotlin(1), IntelliJ IDEA (2.5), Android Studio (2), MacOS/Linux (4) and other
 <h2 id="h2">Experience</h2>
-
 <u>Period:</u> 12/2019 - now<br>
-<u>Position:</u> Freelance web developer<br>
-<u>City:</u> Kraków, Poland<br><br>
-
+<u>Position:</u> Freelance web developer (сustomers in Poland)<br>
+<u>Location:</u> Kraków, Poland<br><br>
 <u>Period:</u> 05/2018 - 12/2019<br>
-<u>Position:</u> Front-end web developer, Internet marketing specialist, Graphic designer<br>
+<u>Position:</u> Front-end web developer, internet marketing specialist<br>
 <u>Company:</u> Immo Rainbow<br>
-<u>City:</u> Sofia, Bulgaria<br><br>
- 
+<u>Location:</u> Sofia, Bulgaria<br><br>
 <h2 id="h2">Education</h2>
- 
 <u>Period:</u> 2004 - 2009<br>
-<u>What studied:</u> Architecture of buildings and structures<br>
+<u>What studied:</u> Architecture<br>
 <u>Educational institution:</u> Kharkiv State Technical University of Construction and Architecture<br>
-<u>City:</u> Kharkiv, Ukraine <br><br>
-
-<u>Period:</u> 2004 - 2005<br>
-<u>What studied:</u> Web development courses<br>
-<u>Educational institution:</u> Kharkiv National University of Radioelectronics<br>
-<u>City:</u> Kharkiv, Ukraine 
-
+<u>Location:</u> Kharkiv, Ukraine <br><br>
 <h2 id="h2">Languages</h2>
-
+<u>Bulgarian:</u> B2-C1
 <u>English:</u> B1-B2<br>
 <u>Russian:</u> C2<br>
-<u>Ukrainian:</u> C1-C2<br>
-<u>Bulgarian:</u> C1-C2
-
+<u>Polish:</u> A1-A2<br><br>
 <h2 id="h2">Hobbies</h2>
-
-Drone racing<br>
-Downhill mountain biking<br>
-3D printing<br>
-Photography and video
+Drone racing, downhill mountain biking, 3D printing, photography and video, electronics
 </body>
 </html>
