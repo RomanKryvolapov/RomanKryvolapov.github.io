@@ -2,7 +2,7 @@
 <html>
    <head>
       <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "2; url = https://romankryvolapov.github.io/cv.html" />
+      <meta http-equiv = "refresh" content = "2; url = https://romankryvolapov.github.io/CV.html" />
    </head>
    <body>
       <p>Hello HTML5!</p>
