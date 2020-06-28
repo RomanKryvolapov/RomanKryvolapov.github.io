@@ -23,7 +23,6 @@
 <u>GitHub:</u> <a href="https://github.com/RomanKryvolapov/" target="_blank" style="color: red;">https://github.com/RomanKryvolapov/</a><br>
 <u>GitHub Page:</u> <a href="https://romankryvolapov.github.io/" target="_blank" style="color: red;">https://romankryvolapov.github.io/</a><br>
 <u>Thingiverse Designs:</u> <a href="https://www.thingiverse.com/RomanKryvolapov/" target="_blank" style="color: red;">https://www.thingiverse.com/RomanKryvolapov/</a><br>
-<u>YouTube:</u> <a href="https://www.youtube.com/channel/UCc58-0Z-VTg8g3_fUODM3hw/" target="_blank" style="color: red;">https://www.youtube.com/channel/UCc58-0Z-VTg8g3_fUODM3hw/</a><br>
 <u>Citizenship:</u> Bulgaria
 <h2 id="h2">Summary</h2>
 Until today, I have worked mainly as a web developer, and I also dealt with all issues related to representing companies on the Internet, from creating and optimizing a website to Internet marketing. I have little experience in creating applications for Android and in Java, and I chose Android development as the direction of my growth. Now I want to get into the team that is developing the application for Android. 
